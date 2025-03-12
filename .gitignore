@@ -1,0 +1,13 @@
+cmake-build-debug
+cmake-build-release
+.cmake_checksum
+.idea
+.vscode
+ext/project_path.hpp
+out/
+.vs/
+build
+/CMakeSettings.json
+tags
+compile_commands.json
+**/.DS_Store
