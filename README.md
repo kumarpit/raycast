@@ -1,41 +1,13 @@
 # Raycast
-Light-hearted and relaxing puzzle game about directing light to photosynthesize a plant!
+Use mirrors, portals, black holes and more to bring light to plants in this relaxing physics puzzler. Play the game [here](https://teamlightbox.itch.io/raycast).
 
-## Milestones
-### [M1]
-- Added rotatable and moveable mirrors
-- Added main menu
-- Added ambient and diffuse lighting
-- Added 2D
-### [M2]
-- Added sprite sheet animation system
-- Added precise collision system
-- Added text rendering
-- Added mesh collisions
-- Added AI system
-### [M3]
-- Added portal mechanic
-- Added black hole gamification logic
-- Adjusted mirror user interaction
-- Added level persistence
-### [M4]
-- Added bloom lighting visual effects
-- Added particle system
 
-### Attribution
 
-UI Assets by Kenney.nl https://kenney.nl/assets/
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6593247b-efd0-41ef-ad5c-7250822a6512" />
 
-Forest by Arcade Island https://arcadeisland.itch.io/forest
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/259def15-a7bf-4d13-8b58-ad9b2b2fc108" />
 
-Castle Brick Tileset by Jordon Games https://jordon-games.itch.io/castle-stone-tileset
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b46de48a-b15b-4467-849c-b0adeb53382e" />
 
-Silver by Poppy Works https://poppyworks.itch.io/silver
 
-Turtle by Elthen https://elthen.itch.io/2d-pixel-art-turtle-sprites
 
-Platformer Asset Collection by Name By Another Rose https://opengameart.org/content/platformer-asset-collection
-
-Birds and Wind - Ambient, Birds, Wind and Synth by Spring Spring https://opengameart.org/content/birds-and-wind-ambient-birds-wind-and-synth
-
-Legacy Collection by ansimuz https://ansimuz.itch.io/gothicvania-patreon-collection
